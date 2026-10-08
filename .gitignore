@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/raw/
+data/clean/
+*.zip
+models/*.keras
+models/*.h5
+outputs/
+.venv/
